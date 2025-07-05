@@ -9,6 +9,8 @@ React. js for frontend development
 
 Currently learning Node. js for backend
 
+Built websites using WordPress, Wix Studio, and other no-code platforms
+
 My goal is to develop smart, intuitive systems that automate repetitive tasks, enhance decision-making, and boost productivity across domains.
 
 <div align="center">
