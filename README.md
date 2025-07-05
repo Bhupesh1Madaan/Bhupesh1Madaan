@@ -2,8 +2,11 @@
 Hey, I’m Bhupesh — a budding Data Scientist and enthusiastic Full Stack Developer with equal interest in code-based and no-code platforms.
 I like to tinker with AI systems and see how they work and how they could be used to build creative, human-focused tools. I am focused on solving hard problems with easy, scalable solutions (or datadriven systems, or neat web applications).
 I’ve worked with:
+
 React. js for frontend development
+
 Currently learning Node. js for backend
+
 My goal is to develop smart, intuitive systems that automate repetitive tasks, enhance decision-making, and boost productivity across domains.
 
 <div align="center">
