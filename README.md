@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hello, I am Bhupesh—an aspiring Data Scientist with a passion for discovering simple solutions to complex problems. I love exploring how different AI systems work and learning from them to build innovative tools that help humans become more efficient. My goal is to create intelligent systems that not only automate tedious tasks but also enhance decision-making and productivity across various domains. 
+Hey, I’m Bhupesh — a budding Data Scientist and enthusiastic Full Stack Developer with equal interest in code-based and no-code platforms.
+I like to tinker with AI systems and see how they work and how they could be used to build creative, human-focused tools. I am focused on solving hard problems with easy, scalable solutions (or datadriven systems, or neat web applications).
+I’ve worked with:
+React. js for frontend development
+Currently learning Node. js for backend
+My goal is to develop smart, intuitive systems that automate repetitive tasks, enhance decision-making, and boost productivity across domains.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1bf74328-ca94-43c9-99f0-46cfb6ab916c" alt="wake-up-daddys-home-ironman" width="600" />
