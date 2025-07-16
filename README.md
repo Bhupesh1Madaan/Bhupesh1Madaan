@@ -1,18 +1,19 @@
 # 💫 About Me:
-Hey, I’m Bhupesh — a budding Data Scientist and enthusiastic Full Stack Developer with equal interest in code-based and no-code platforms.
+A budding Data Scientist with a creative edge in Full Stack Development and No-Code Tools.
 
-I like to tinker with AI systems and see how they work and how they could be used to build creative, human-focused tools. I am focused on solving hard problems with easy, scalable solutions (or datadriven systems, or neat web applications).
+🔍 I explore how data, AI, and automation can solve real-world problems by building intuitive, scalable solutions.
 
-I’ve worked with:
+💡 What I do:
 
-React. js for frontend development
+Analyze data to uncover insights using Python, Pandas, Matplotlib, and Seaborn
 
-Currently learning Node. js for backend
+Learn and experiment with Machine Learning models
 
-Built websites using WordPress, Wix Studio, and other no-code platforms
+Build frontends with React.js and learning Node.js for backend
 
-My goal is to develop smart, intuitive systems that automate repetitive tasks, enhance decision-making, and boost productivity across domains.
+Create smart websites using WordPress, Wix Studio, and other no-code platforms
 
+🎯 Goal: To develop intelligent systems that automate tasks, enhance decision-making, and improve productivity.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1bf74328-ca94-43c9-99f0-46cfb6ab916c" alt="wake-up-daddys-home-ironman" width="600" />
 </div>
