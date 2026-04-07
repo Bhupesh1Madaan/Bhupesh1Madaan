@@ -1,5 +1,5 @@
 # 💫 About Me:
-A budding Data Scientist with a creative edge in Full Stack Development and No-Code Tools.
+Aspiring Data Scientist with a creative edge in Full Stack Development and No-Code Tools.
 
 🔍 I explore how data, AI, and automation can solve real-world problems by building intuitive, scalable solutions.
 
