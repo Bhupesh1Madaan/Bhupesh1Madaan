@@ -34,14 +34,17 @@
 
 ### 📊 Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhupesh1Madaan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupesh1Madaan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Bhupesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhupesh1Madaan&show_icons=true&theme=radical)  
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Bhupesh1Madaan&theme=radical" alt="Streak Stats" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupesh1Madaan&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhupesh1Madaan&theme=radical)
+
+### 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=Bhupesh1Madaan&theme=radical&no-bg=true)
+
+---
+![Visitor Count](https://visitcount.itsvg.in/api?id=Bhupesh1Madaan&icon=0&color=0)
 
 ### 🏆 Achievements
 <p align="center">
